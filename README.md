@@ -19,7 +19,8 @@
 
 ## Contato
 
-📧 viniciuscardoso122103@gmail.com
+📧 Email:
+viniciuscardoso122103@gmail.com
 
 💼 LinkedIn:
 https://www.linkedin.com/in/vinicius-silva-2112v/
