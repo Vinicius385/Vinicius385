@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou Vinicius Silva 👋
 
-<!--
-**Vinicius385/Vinicius385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formado em Sistemas de Informação
 
-Here are some ideas to get you started:
+💻 Tenho conhecimento em:
+- Python
+- JavaScript
+- HTML
+- CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Desenvolvo projetos próprios focados em desenvolvimento web, automações e sistemas.
+
+## Projetos em destaque
+
+🔹 Sistema de Garantia para Loja de Celulares  
+🔹 Site Tonim Cell  
+🔹 Landing Page Fanta com GSAP  
+🔹 Automações com Python
+
+## Contato
+
+📧 viniciuscardoso122103@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/vinicius-silva-2112v/
+
+🌐 Portfólio:
+https://vinicius385.github.io/portfolio-vinicius/
